@@ -44,11 +44,18 @@ I'm passionate about solving real-world problems through code. My journey in web
 ---
 
 ### 🛠️ Projects
-Here are a few projects I've worked on:
 
-- **Project 1**: Description and [Link]
-- **Project 2**: Description and [Link]
-- **Project 3**: Description and [Link]
+- **MERN-Stack Restaurant Site**  
+  Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
+  Live Site: [MERN Food Website](https://mern-food-website-one.vercel.app/)
+
+- **E-Commerce Website**  
+  Technologies: React, CSS, React Router DOM  
+  Live Site: [Full E-Commerce Website](https://full-ecom-website-in-react.netlify.app/)
+
+- **Food App**  
+  Technologies: React, Redux Toolkit, React Hot Toast  
+  Live Site: [Full Food App](https://full-food-app.netlify.app/)
 
 ---
 
