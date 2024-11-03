@@ -33,6 +33,20 @@ I'm passionate about solving real-world problems through code. My journey in web
 
 ---
 
+### 🛠️ Experience
+
+- **Full-Stack Web Development Training**  
+  - **Institute:** Nettech India  
+  - **Role:** Trainee  
+  - **Description:** Completed a comprehensive training program covering full-stack web development, with hands-on experience in front-end and back-end technologies.
+
+- **Frontend Developer Internship**  
+  - **Company:** F60Host LLP  
+  - **Duration:** 6 months  
+  - **Description:** Worked as a Frontend Developer intern, building and maintaining responsive web applications. Gained experience with React and Tailwind CSS to create engaging user interfaces.
+
+---
+
 ### 📫 Get in Touch
 
 - LinkedIn: [Soham Chogale](https://www.linkedin.com/in/soham-chogale-237393242/)
@@ -45,17 +59,17 @@ I'm passionate about solving real-world problems through code. My journey in web
 
 ### 🛠️ Projects
 
-- **MERN-Stack Restaurant Site**  
+- **🍽️ [MERN-Stack Restaurant Site](https://mern-food-website-one.vercel.app/)**  
   Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB  
-  Live Site: [MERN Food Website](https://mern-food-website-one.vercel.app/)
+  **Description:** A modern restaurant website with a menu and ordering system. Built with the MERN stack, it provides a seamless user experience for food ordering.
 
-- **E-Commerce Website**  
+- **🛒 [E-Commerce Website](https://full-ecom-website-in-react.netlify.app/)**  
   Technologies: React, CSS, React Router DOM  
-  Live Site: [Full E-Commerce Website](https://full-ecom-website-in-react.netlify.app/)
+  **Description:** A comprehensive e-commerce website featuring product browsing, cart functionality, and a user-friendly interface for online shopping.
 
-- **Food App**  
+- **🥡 [Food App](https://full-food-app.netlify.app/)**  
   Technologies: React, Redux Toolkit, React Hot Toast  
-  Live Site: [Full Food App](https://full-food-app.netlify.app/)
+  **Description:** A user-friendly food ordering app with state management using Redux Toolkit and interactive toasts for notifications. Perfect for exploring nearby food options.
 
 ---
 
