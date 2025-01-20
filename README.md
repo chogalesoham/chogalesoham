@@ -50,7 +50,6 @@ I'm passionate about solving real-world problems through code. My journey in web
 ### 📫 Get in Touch
 
 - LinkedIn: [Soham Chogale](https://www.linkedin.com/in/soham-chogale-237393242/)
-- GitHub: [chogalesoham](https://github.com/chogalesoham)
 - Email: chogalesoham74@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chogalesoham&style=for-the-badge&color=blue)
