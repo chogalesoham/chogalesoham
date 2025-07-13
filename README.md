@@ -1,6 +1,6 @@
 # Hey there, I'm Soham Chogale..! 👋
 
-I'm a Full-Stack Web Developer with experience in both frontend and backend technologies, building responsive, user-friendly web applications. My goal is to deliver seamless user experiences by combining design and development skills.
+I'm a Full-Stack Web Developer with experience in both frontend and backend technologies, building responsive, user-friendly web applications. My goal is to deliver seamless user experiences by combining design and development skills..
 
 ---
 
